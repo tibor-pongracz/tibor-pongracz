@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 I am Tibor Pongracz, a developer.
+I have 5 years of experience.
+
+Best regards
 <!--
 **tibor-pongracz/tibor-pongracz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
