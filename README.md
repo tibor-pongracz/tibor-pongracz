@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am Tibor Pongracz, a developer.
 <!--
 **tibor-pongracz/tibor-pongracz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
